@@ -1,0 +1,28 @@
+	
+student_id		
+firstname
+			middlename
+			surname
+			name_extension
+			birthday
+			gender
+			course_id
+			year_level
+
+
+
+entrance_exam_result
+admission_test_ranking
+englishplus_ exam_result
+medical_exam_results
+interview_assesment
+form138
+pept
+form137
+true_copy_of_grades
+transcript_of_records
+certificate_of_good_moral_character
+study_permit
+copy_of_birth_certificate
+marriage_contract
+others
