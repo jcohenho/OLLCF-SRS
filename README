@@ -1,0 +1,8 @@
+To run the app:
+
+1. Import the osis.sql database into phpmyadmin.
+2. Install WAMP/MAMP/LAMP/XAMPP.
+3. Copy and paste osis folder into XAMPP's directory: htdocs for mac; www folder for WAMP. 
+4. Run webserver and visit http://localhost:8888/osis/login.php (This URL will be different depending on webserver installation).
+5. username and password are both "admin".
+
